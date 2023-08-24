@@ -1,5 +1,5 @@
 {
-  "image": "stellargroup/hpx:dev",
+  "image": "mcr.microsoft.com/vscode/devcontainers/cpp:hirsute",
   "hostRequirements": {
     "cpus": 4
   },
